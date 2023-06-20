@@ -50,6 +50,8 @@ main section h1 {
   font-size: 36px;
   line-height: 40px;
   width: 610px;
+  padding-top: 12px;
+  margin: 0 auto 60px;
 }
 
 span {
@@ -61,10 +63,22 @@ p {
   color: #c2c2c2;
   font-size: 16px;
   line-height: 28px;
-  text-align: ;
+}
+
+footer {
+  margin-top: 157px;
+  text-align: center;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  border: 1px solid #00bfa6;
 }
 
 footer p {
   color: #c2c2c2;
+  font-size: 14px;
+  line-height: 28px;
   font-family: "JetBrains Mono", monospace;
 }
